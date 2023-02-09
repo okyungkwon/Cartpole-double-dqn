@@ -14,4 +14,5 @@ target value는 항상 증가시키는 방향으로 overestimation이 일어남
 ![image](https://user-images.githubusercontent.com/121830114/217930048-57b7f7a0-0c09-421c-82e0-bb3acca1be5e.png)
 
 ## 실습
+![image](https://user-images.githubusercontent.com/121830114/217940761-7f72176a-3432-436c-a027-f6c929a0f3f4.png)
 
